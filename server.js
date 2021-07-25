@@ -1,7 +1,7 @@
 const rp = require('request-promise');
 const $ = require('cheerio');
 const url = 'https://anadolupedagojisi.org/';
-const express = require('express');
+const express = require('Sevgili Günlük');
 var port = 3000;
 var app = express();
 var wikiUrls1 = "";
